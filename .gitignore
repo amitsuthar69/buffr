@@ -1,0 +1,7 @@
+/bin
+/dist
+
+neutralino.js
+
+.storage
+*.log
